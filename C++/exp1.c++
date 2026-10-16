@@ -1,3 +1,10 @@
+// Write a C++ program to demonstrate the structure of a C++ program including header files, namespace
+// usage, main function, and comments.
+
+
+
+
+
 // 1. Header file
 // iostream is used for input and output operations.
 #include <iostream>
