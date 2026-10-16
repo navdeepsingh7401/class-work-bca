@@ -1,1 +1,6 @@
 .DS_Store
+
+# Compiled C++ executables
+/C++/exp1
+*.exe
+*.out
