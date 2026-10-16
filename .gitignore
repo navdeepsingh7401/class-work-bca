@@ -1,6 +1,17 @@
 .DS_Store
 
-# Compiled C++ executables
-/C++/exp1
+# Keep C++ source and header files; ignore generated files in the C++ folder.
+/C++/**
+!/C++/**/
+!/C++/**/*.c
+!/C++/**/*.cc
+!/C++/**/*.cpp
+!/C++/**/*.c++
+!/C++/**/*.cxx
+!/C++/**/*.C
+!/C++/**/*.h
+!/C++/**/*.hh
+!/C++/**/*.hpp
+!/C++/**/*.hxx
 *.exe
 *.out
